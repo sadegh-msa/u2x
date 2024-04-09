@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "u2x"
+version = "0.1.0"
+description = "A simple app to encode/decode texts between XML and Unicode"
+authors = ["Mohammad Sadegh At'hari <sadegh.msa@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pygobject = "^3.48.2"
+gbulb = "^0.6.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
