@@ -6,9 +6,9 @@ authors = ["Mohammad Sadegh At'hari <sadegh.msa@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.12"
 pygobject = "^3.48.2"
-gbulb = "^0.6.4"
+gbulb = "^0.6.5"
 
 
 [build-system]
